@@ -4,7 +4,7 @@
   <br>
   <h1>Olá, sou Eduardo! 🐱</h1>
   <p>
-    Tenho 21 anos, sou de Recife e estou no 3º período de Ciências da Computação na CESAR School. Meu foco tem sido explorar o desenvolvimento de jogos (com atenção especial à acessibilidade) e a criação de aplicações web. 
+    Tenho 21 anos, sou de Recife e estou no 3º período de Ciências da Computação na CESAR School. Meu foco tem sido explorar o desenvolvimento de jogos e a criação de aplicações web. 
   </p>
 
   <a href="https://www.linkedin.com/in/josé-de-freitas/" target="_blank">
